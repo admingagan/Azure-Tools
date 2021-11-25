@@ -6,7 +6,7 @@ This Repo contains various tools to manage Azure Cloud infrastructure. You can R
 1) Azure CLI 2.0
 
 
-
+=
 2) Azure Powershell
    
 
